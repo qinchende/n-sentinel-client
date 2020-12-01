@@ -10,7 +10,10 @@
     "name": "闪电侠",
     "email": "qinchende@qq.com"
   },
-  "contributors": [],
+  "contributors": [{
+    "name": "闪电侠",
+    "url": "http://chende.ren"
+  }],
   "dependencies": {
   },
   "deprecated": false,
