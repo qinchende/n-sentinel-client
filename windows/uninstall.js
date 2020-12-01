@@ -2,7 +2,7 @@ var Service = require('node-windows').Service;
 
 // Create a new service object
 var svc = new Service({
-    name: 'TLSentinelClient',
+    name: 'NSentinelClient',
     script: 'C:\\Program Files\\n-sentinel-client\\app.js',
 });
 
